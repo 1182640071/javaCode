@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<common>
+			<url>http://192.168.168.64:8000/portLoad/</url>
+			<messageUrl>http://192.168.168.64:8000/portRequest/</messageUrl>
+	</common>
+    
+</config>
